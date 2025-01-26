@@ -1,4 +1,4 @@
-# BattleShipGame
+# ExpenseTracker
 
 This is a C++ project following an industry-standard structure. Build using CMake.
 
@@ -13,7 +13,7 @@ make
 
 ### Run
 ```bash
-./BattleShipGame
+./ExpenseTracker
 ```
 
 ### Run Tests

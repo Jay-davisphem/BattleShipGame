@@ -1,6 +1,8 @@
 #include <iostream>
+#include "../include/battle.hpp"
 
-int main() {
-    std::cout << "Hello, BattleShipGame!" << std::endl;
+int main(int argc, char ** argv) {
+    display_messages();
+    std::cout << "Hello, BattleShipGame! wow nice " << argc << std::endl;
     return 0;
 }
